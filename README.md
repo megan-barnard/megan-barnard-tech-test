@@ -6,7 +6,7 @@ A weather app built using React & Redux. Display weather data based on the user'
 
 ### 1. Download [GraphQL Wrapper for the Open Weather Map API](https://github.com/konstantinmuenster/graphql-weather-api)
 
-Follow the installation instructions [here](https://github.com/konstantinmuenster/graphql-weather-api/blob/master/README.md#how-to-install)
+Follow the installation instructions [here](https://github.com/konstantinmuenster/graphql-weather-api/blob/master/README.md#how-to-install) and start the server.
 
 ### 2. In this project's directory, run:
 ```sh
