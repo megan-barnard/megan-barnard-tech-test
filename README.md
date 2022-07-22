@@ -15,3 +15,8 @@ npm start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to view in browser.
+
+## Demo
+<div align="center">
+  <img src="demo-img.png" alt="Demo" width="55%" height="100%">
+</div>
