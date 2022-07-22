@@ -1,6 +1,6 @@
 # React/Redux Weather App
 
-A weather app built using React & Redux. Display weather data based on the user's current location and switch between metric and imperial units.
+A simple weather app built using React & Redux. Display weather data based on the user's current location and switch between metric and imperial units.
 
 ## How to Run
 
